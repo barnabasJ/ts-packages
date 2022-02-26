@@ -1857,7 +1857,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*":
+"@types/node@npm:*, @types/node@npm:^17.0.21":
   version: 17.0.21
   resolution: "@types/node@npm:17.0.21"
   checksum: 89dcd2fe82f21d3634266f8384e9c865cf8af49685639fbdbd799bdd1040480fb1e8eeda2d3b9fce41edbe704d2a4be9f427118c4ae872e8d9bb7cbeb3c41a94
@@ -4494,6 +4494,7 @@ __metadata:
   resolution: "gendash@workspace:packages/gendash"
   dependencies:
     "@size-limit/preset-small-lib": ^7.0.8
+    "@types/node": ^17.0.21
     husky: ^7.0.4
     size-limit: ^7.0.8
     tsdx: ^0.14.1

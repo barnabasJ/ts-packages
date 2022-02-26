@@ -6337,6 +6337,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["gendash", "workspace:packages/gendash"],\
             ["@size-limit/preset-small-lib", "virtual:a0c61c8c161b9130576df88187c32bfbb0b516340eaec6622f59bd25391518e2a6e676d67c6b4b04d1a7adcd08e9423ad63cb38f5f95559d9946c28c22ad5668#npm:7.0.8"],\
+            ["@types/node", "npm:17.0.21"],\
             ["husky", "npm:7.0.4"],\
             ["size-limit", "npm:7.0.8"],\
             ["tsdx", "npm:0.14.1"],\
