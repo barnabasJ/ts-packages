@@ -1,10 +1,24 @@
 {
   "name": "@barnabasj/gendash",
   "version": "0.0.1",
-  "packageManager": "yarn@3.2.0",
+  "main": "dist/index.js",
+  "files": [
+    "dist/*",
+    "src/*",
+    "package.json",
+    "tsconfig.json"
+  ],
+  "license": "MIT",
   "sideEffects": false,
+  "scripts": {
+    "tests": "echo no test available"
+  },
+  "np": {
+    "yarn": true,
+    "contents": "dist"
+  },
   "devDependencies": {
-    "np": "^7.6.0",
     "typescript": "^4.5.5"
-  }
+  },
+  "packageManager": "yarn@3.2.0"
 }
