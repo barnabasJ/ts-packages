@@ -1,0 +1,1 @@
+{"version":3,"file":"reduce.js","sourceRoot":"","sources":["../../../src/sync/eager/reduce.ts"],"names":[],"mappings":";;;AAAA,SAAgB,MAAM,CACpB,UAAuB,EACvB,EAA2B,EAC3B,GAAM;IAEN,IAAI,MAAM,GAAG,GAAG,CAAC;IACjB,KAAK,MAAM,CAAC,IAAI,UAAU,EAAE;QAC1B,MAAM,GAAG,EAAE,CAAC,MAAM,EAAE,CAAC,CAAC,CAAC;KACxB;IAED,OAAO,MAAM,CAAC;AAChB,CAAC;AAXD,wBAWC"}
